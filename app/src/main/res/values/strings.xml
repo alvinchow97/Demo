@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="Dont_Click_Me">Dont Dont Dont</string>
+    <string name ="warning_message">Dont click me</string>
+</resources>
